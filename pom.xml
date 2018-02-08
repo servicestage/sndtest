@@ -4,11 +4,11 @@
         xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.service</groupId>
-    <artifactId>scntestgit</artifactId>
+    <artifactId>forliuchan</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>scntestgit</name>
+    <name>forliuchan</name>
     <url>http://maven.apache.org</url>
 
     <properties>
@@ -16,7 +16,7 @@
         <cse.version>2.2.8</cse.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <demo.main>com.service.scntestgit.SndtestApplication</demo.main>
+        <demo.main>com.service.forliuchan.SndtestApplication</demo.main>
     </properties>
 
     <dependencyManagement>
